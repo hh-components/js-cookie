@@ -1,0 +1,7 @@
+{
+    "repos": "https://github.com/js-cookie/js-cookie.git",
+    "version": "v2.1.4",
+    "name": "js-cookie",
+    "main": "js.cookie.js",
+    "dependencies": {}
+}
